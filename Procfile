@@ -1,2 +1,2 @@
-web: ruby app.rb 
+web: test.html 
 console: tux
